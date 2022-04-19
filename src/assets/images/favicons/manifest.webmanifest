@@ -1,0 +1,24 @@
+{
+  "name": "katharina.xyz",
+  "short_name": "katharina.xyz",
+  "description": "",
+  "start_url": "/",
+  "lang": "de",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/images/favicons/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicons/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

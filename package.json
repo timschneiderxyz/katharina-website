@@ -1,18 +1,18 @@
 {
-  "name": "katharina.xyz",
+  "name": "katharina-website",
   "description": "Katharinas personal website.",
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
   "author": {
     "name": "Tim Schneider",
-    "twitter": "@RanzigeButter",
+    "twitter": "@timschneiderxyz",
     "email": "timschneider.xyz@gmail.com",
     "url": "https://timschneider.xyz"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:RanzigeButter/katharina.xyz.git"
+    "url": "git@github.com:timschneiderxyz/katharina-website.git"
   },
   "scripts": {
     "dev": "nodemon",

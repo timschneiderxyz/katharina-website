@@ -7,15 +7,13 @@
 
 # Dependencies
 node_modules/
-vendor/
 
 # Distribution
-dist/
+.next/
+out/
 
-# DotEnv
+# Environment
 .env*
 
 # Miscellaneous
-.idea/*
 .DS_Store
-Thumbs.db

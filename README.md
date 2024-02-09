@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://katharina.xyz">katharina-website</a></h1>
 
 <p align="center">
-  Katharinas website build with Webpack, React & Tailwind CSS.
+  My wife Katharina's website build with Next.js & Tailwind CSS.
 </p>
 
 <p align="center">

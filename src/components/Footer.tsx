@@ -2,13 +2,12 @@
     # Components - Footer
     ========================================================================  */
 
-// Dependencies
-import React from 'react';
+import clsx from 'clsx';
 
-const Footer = () => {
+const Footer = ({ className, ...props }: React.HTMLAttributes<HTMLDivElement>) => {
   return (
-    <footer className='c-footer'>
-      <div className='container'></div>
+    <footer className={clsx('', className)} {...props}>
+      <div></div>
     </footer>
   );
 };

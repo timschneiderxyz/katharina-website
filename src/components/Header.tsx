@@ -2,13 +2,12 @@
     # Components - Header
     ========================================================================  */
 
-// Dependencies
-import React from 'react';
+import clsx from 'clsx';
 
-const Header = () => {
+const Header = ({ className, ...props }: React.HTMLAttributes<HTMLDivElement>) => {
   return (
-    <header className='c-header'>
-      <div className='container'></div>
+    <header className={clsx('', className)} {...props}>
+      <div></div>
     </header>
   );
 };
